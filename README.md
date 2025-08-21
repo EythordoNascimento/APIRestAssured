@@ -1,6 +1,6 @@
 # 🧪 Primeiro Contato com Testes de API usando RestAssured
 
-Este repositório marca meu **primeiro contato** com testes automatizados de API utilizando a biblioteca **RestAssured** em Java. A ideia foi explorar como validar endpoints REST de forma prática e eficiente, com foco em aprendizado e experimentação.
+Este repositório marca meu **primeiro contato** com testes automatizados de API utilizando a biblioteca **RestAssured** em Java. A ideia foi explorar como validar endpoints REST de forma prática e eficiente, com foco em aprendizado e experimentação..
 
 ## 🚀 O que foi feito
 
