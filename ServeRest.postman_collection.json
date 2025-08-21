@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "b90a7db6-e7c5-455b-a4e4-b47019fa3a16",
+		"name": "ServeRest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44256989"
+	},
+	"item": [
+		{
+			"name": "GetUsuarios",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{BaseUrl}}usuarios",
+					"host": [
+						"{{BaseUrl}}usuarios"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PostUsuario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
